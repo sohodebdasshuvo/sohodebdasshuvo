@@ -12,25 +12,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
 <h1 align="center">Hi 👋, I'm ShuvO</h1>
 
 ###
 
-<p align="center">A passionate Full Stack developer from Bangladesh</p>
+<p align="center">A passionate Full Stack Web developer from Bangladesh</p>
+
+<p align="left">- 🌱 I’m currently learning JavaScript<br>- 🥰 I enjoy programming and sharing knowledge<br>- 💬 Ask me about anything, i am happy to help</p>
 
 ###
 
-<p align="left">🌱 I’m currently learning JavaScript</p>
-
-###
-
-<p align="left">🥰 I enjoy programming and sharing knowledge</p>
-
-###
-
-<h2 align="left">Languages and Tools :</h2>
+<h2 align="left">🛠 Languages and Tools :</h2>
 
 ###
 
@@ -49,5 +41,17 @@ Here are some ideas to get you started:
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
 </div>
+
+###
+
+<p align="center">&nbsp;
+  <img height="150px" width="40%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sohodebdasshuvo&show_icons=true&locale=en&layout=compact&theme=transparent" alt="sohodebdasshuvo" />
+  <img height="150px" width="40%" align="center" src="https://github-readme-stats.vercel.app/api?username=sohodebdasshuvo&show_icons=true&locale=en&theme=transparent" alt="sohodebdasshuvo" />
+</p>
+
+###
+
+<p align="center">
+  <img height="220px" width="80%" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=sohodebdasshuvo&theme=transparent&dates=227EBC" alt="sohodebdasshuvo" /></p>
 
 ###
