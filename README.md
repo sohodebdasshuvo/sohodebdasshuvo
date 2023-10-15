@@ -37,6 +37,8 @@ Here are some ideas to get you started:
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="reactjs logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=androidstudio" height="40" alt="androidstudio logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
